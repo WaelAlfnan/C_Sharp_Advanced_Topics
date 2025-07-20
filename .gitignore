@@ -1,0 +1,53 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.config.user
+*.resharper
+*.resharper.user
+*.cache
+*.dbmdl
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+*.log
+*.pdb
+*.tmp
+*.vspscc
+*.vssscc
+*.bak
+*.xps
+*.cpl
+*.exe
+*.dll
+*.intelliSense.js
+*.js.map
+*.css.map
+
+# Test results
+TestResults/
+.trx
+
+# Package Manager
+packages/
+*.nupkg
+project.lock.json
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Node.js (if used with .NET Core projects, e.g., ASP.NET Core with client-side frameworks)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# General ignore
+*.DS_Store
+Thumbs.db
