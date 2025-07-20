@@ -1,0 +1,14 @@
+D:\Almahdy\C# Advanced\Recordes\Recordes\bin\Debug\net9.0\Recordes.exe
+D:\Almahdy\C# Advanced\Recordes\Recordes\bin\Debug\net9.0\Recordes.deps.json
+D:\Almahdy\C# Advanced\Recordes\Recordes\bin\Debug\net9.0\Recordes.runtimeconfig.json
+D:\Almahdy\C# Advanced\Recordes\Recordes\bin\Debug\net9.0\Recordes.dll
+D:\Almahdy\C# Advanced\Recordes\Recordes\bin\Debug\net9.0\Recordes.pdb
+D:\Almahdy\C# Advanced\Recordes\Recordes\obj\Debug\net9.0\Recordes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Almahdy\C# Advanced\Recordes\Recordes\obj\Debug\net9.0\Recordes.AssemblyInfoInputs.cache
+D:\Almahdy\C# Advanced\Recordes\Recordes\obj\Debug\net9.0\Recordes.AssemblyInfo.cs
+D:\Almahdy\C# Advanced\Recordes\Recordes\obj\Debug\net9.0\Recordes.csproj.CoreCompileInputs.cache
+D:\Almahdy\C# Advanced\Recordes\Recordes\obj\Debug\net9.0\Recordes.dll
+D:\Almahdy\C# Advanced\Recordes\Recordes\obj\Debug\net9.0\refint\Recordes.dll
+D:\Almahdy\C# Advanced\Recordes\Recordes\obj\Debug\net9.0\Recordes.pdb
+D:\Almahdy\C# Advanced\Recordes\Recordes\obj\Debug\net9.0\Recordes.genruntimeconfig.cache
+D:\Almahdy\C# Advanced\Recordes\Recordes\obj\Debug\net9.0\ref\Recordes.dll

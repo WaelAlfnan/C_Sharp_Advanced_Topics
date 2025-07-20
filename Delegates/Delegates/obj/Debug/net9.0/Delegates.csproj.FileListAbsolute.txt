@@ -1,0 +1,14 @@
+D:\Almahdy\C# Advanced\Delegates\Delegates\bin\Debug\net9.0\Delegates.exe
+D:\Almahdy\C# Advanced\Delegates\Delegates\bin\Debug\net9.0\Delegates.deps.json
+D:\Almahdy\C# Advanced\Delegates\Delegates\bin\Debug\net9.0\Delegates.runtimeconfig.json
+D:\Almahdy\C# Advanced\Delegates\Delegates\bin\Debug\net9.0\Delegates.dll
+D:\Almahdy\C# Advanced\Delegates\Delegates\bin\Debug\net9.0\Delegates.pdb
+D:\Almahdy\C# Advanced\Delegates\Delegates\obj\Debug\net9.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Almahdy\C# Advanced\Delegates\Delegates\obj\Debug\net9.0\Delegates.AssemblyInfoInputs.cache
+D:\Almahdy\C# Advanced\Delegates\Delegates\obj\Debug\net9.0\Delegates.AssemblyInfo.cs
+D:\Almahdy\C# Advanced\Delegates\Delegates\obj\Debug\net9.0\Delegates.csproj.CoreCompileInputs.cache
+D:\Almahdy\C# Advanced\Delegates\Delegates\obj\Debug\net9.0\Delegates.dll
+D:\Almahdy\C# Advanced\Delegates\Delegates\obj\Debug\net9.0\refint\Delegates.dll
+D:\Almahdy\C# Advanced\Delegates\Delegates\obj\Debug\net9.0\Delegates.pdb
+D:\Almahdy\C# Advanced\Delegates\Delegates\obj\Debug\net9.0\Delegates.genruntimeconfig.cache
+D:\Almahdy\C# Advanced\Delegates\Delegates\obj\Debug\net9.0\ref\Delegates.dll

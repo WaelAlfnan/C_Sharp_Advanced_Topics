@@ -1,0 +1,14 @@
+D:\Almahdy\C# Advanced\Delegates\DelegatesExample\bin\Debug\net9.0\DelegatesExample.exe
+D:\Almahdy\C# Advanced\Delegates\DelegatesExample\bin\Debug\net9.0\DelegatesExample.deps.json
+D:\Almahdy\C# Advanced\Delegates\DelegatesExample\bin\Debug\net9.0\DelegatesExample.runtimeconfig.json
+D:\Almahdy\C# Advanced\Delegates\DelegatesExample\bin\Debug\net9.0\DelegatesExample.dll
+D:\Almahdy\C# Advanced\Delegates\DelegatesExample\bin\Debug\net9.0\DelegatesExample.pdb
+D:\Almahdy\C# Advanced\Delegates\DelegatesExample\obj\Debug\net9.0\DelegatesExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Almahdy\C# Advanced\Delegates\DelegatesExample\obj\Debug\net9.0\DelegatesExample.AssemblyInfoInputs.cache
+D:\Almahdy\C# Advanced\Delegates\DelegatesExample\obj\Debug\net9.0\DelegatesExample.AssemblyInfo.cs
+D:\Almahdy\C# Advanced\Delegates\DelegatesExample\obj\Debug\net9.0\DelegatesExample.csproj.CoreCompileInputs.cache
+D:\Almahdy\C# Advanced\Delegates\DelegatesExample\obj\Debug\net9.0\DelegatesExample.dll
+D:\Almahdy\C# Advanced\Delegates\DelegatesExample\obj\Debug\net9.0\refint\DelegatesExample.dll
+D:\Almahdy\C# Advanced\Delegates\DelegatesExample\obj\Debug\net9.0\DelegatesExample.pdb
+D:\Almahdy\C# Advanced\Delegates\DelegatesExample\obj\Debug\net9.0\DelegatesExample.genruntimeconfig.cache
+D:\Almahdy\C# Advanced\Delegates\DelegatesExample\obj\Debug\net9.0\ref\DelegatesExample.dll

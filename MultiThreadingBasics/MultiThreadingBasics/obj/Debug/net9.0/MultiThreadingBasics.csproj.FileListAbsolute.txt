@@ -1,0 +1,14 @@
+D:\Almahdy\C# Advanced\MultiThreadingBasics\MultiThreadingBasics\bin\Debug\net9.0\MultiThreadingBasics.exe
+D:\Almahdy\C# Advanced\MultiThreadingBasics\MultiThreadingBasics\bin\Debug\net9.0\MultiThreadingBasics.deps.json
+D:\Almahdy\C# Advanced\MultiThreadingBasics\MultiThreadingBasics\bin\Debug\net9.0\MultiThreadingBasics.runtimeconfig.json
+D:\Almahdy\C# Advanced\MultiThreadingBasics\MultiThreadingBasics\bin\Debug\net9.0\MultiThreadingBasics.dll
+D:\Almahdy\C# Advanced\MultiThreadingBasics\MultiThreadingBasics\bin\Debug\net9.0\MultiThreadingBasics.pdb
+D:\Almahdy\C# Advanced\MultiThreadingBasics\MultiThreadingBasics\obj\Debug\net9.0\MultiThreadingBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Almahdy\C# Advanced\MultiThreadingBasics\MultiThreadingBasics\obj\Debug\net9.0\MultiThreadingBasics.AssemblyInfoInputs.cache
+D:\Almahdy\C# Advanced\MultiThreadingBasics\MultiThreadingBasics\obj\Debug\net9.0\MultiThreadingBasics.AssemblyInfo.cs
+D:\Almahdy\C# Advanced\MultiThreadingBasics\MultiThreadingBasics\obj\Debug\net9.0\MultiThreadingBasics.csproj.CoreCompileInputs.cache
+D:\Almahdy\C# Advanced\MultiThreadingBasics\MultiThreadingBasics\obj\Debug\net9.0\MultiThreadingBasics.dll
+D:\Almahdy\C# Advanced\MultiThreadingBasics\MultiThreadingBasics\obj\Debug\net9.0\refint\MultiThreadingBasics.dll
+D:\Almahdy\C# Advanced\MultiThreadingBasics\MultiThreadingBasics\obj\Debug\net9.0\MultiThreadingBasics.pdb
+D:\Almahdy\C# Advanced\MultiThreadingBasics\MultiThreadingBasics\obj\Debug\net9.0\MultiThreadingBasics.genruntimeconfig.cache
+D:\Almahdy\C# Advanced\MultiThreadingBasics\MultiThreadingBasics\obj\Debug\net9.0\ref\MultiThreadingBasics.dll

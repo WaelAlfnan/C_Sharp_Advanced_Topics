@@ -1,0 +1,5 @@
+D:\Almahdy\C# Advanced\EF_Core_Almohammady\CompanySystem\Comp\obj\Debug\net9.0\Company.csproj.AssemblyReference.cache
+D:\Almahdy\C# Advanced\EF_Core_Almohammady\CompanySystem\Comp\obj\Debug\net9.0\Company.GeneratedMSBuildEditorConfig.editorconfig
+D:\Almahdy\C# Advanced\EF_Core_Almohammady\CompanySystem\Comp\obj\Debug\net9.0\Company.AssemblyInfoInputs.cache
+D:\Almahdy\C# Advanced\EF_Core_Almohammady\CompanySystem\Comp\obj\Debug\net9.0\Company.AssemblyInfo.cs
+D:\Almahdy\C# Advanced\EF_Core_Almohammady\CompanySystem\Comp\obj\Debug\net9.0\Company.csproj.CoreCompileInputs.cache

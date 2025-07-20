@@ -1,0 +1,14 @@
+D:\Almahdy\C# Advanced\Enumerables\Enumerables\bin\Debug\net9.0\Enumerables.exe
+D:\Almahdy\C# Advanced\Enumerables\Enumerables\bin\Debug\net9.0\Enumerables.deps.json
+D:\Almahdy\C# Advanced\Enumerables\Enumerables\bin\Debug\net9.0\Enumerables.runtimeconfig.json
+D:\Almahdy\C# Advanced\Enumerables\Enumerables\bin\Debug\net9.0\Enumerables.dll
+D:\Almahdy\C# Advanced\Enumerables\Enumerables\bin\Debug\net9.0\Enumerables.pdb
+D:\Almahdy\C# Advanced\Enumerables\Enumerables\obj\Debug\net9.0\Enumerables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Almahdy\C# Advanced\Enumerables\Enumerables\obj\Debug\net9.0\Enumerables.AssemblyInfoInputs.cache
+D:\Almahdy\C# Advanced\Enumerables\Enumerables\obj\Debug\net9.0\Enumerables.AssemblyInfo.cs
+D:\Almahdy\C# Advanced\Enumerables\Enumerables\obj\Debug\net9.0\Enumerables.csproj.CoreCompileInputs.cache
+D:\Almahdy\C# Advanced\Enumerables\Enumerables\obj\Debug\net9.0\Enumerables.dll
+D:\Almahdy\C# Advanced\Enumerables\Enumerables\obj\Debug\net9.0\refint\Enumerables.dll
+D:\Almahdy\C# Advanced\Enumerables\Enumerables\obj\Debug\net9.0\Enumerables.pdb
+D:\Almahdy\C# Advanced\Enumerables\Enumerables\obj\Debug\net9.0\Enumerables.genruntimeconfig.cache
+D:\Almahdy\C# Advanced\Enumerables\Enumerables\obj\Debug\net9.0\ref\Enumerables.dll
